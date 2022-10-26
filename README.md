@@ -21,6 +21,7 @@
   
 #### 2. 공백 영역 도출
 - 차원 축소
+  
   <img width="603" alt="image" src="https://user-images.githubusercontent.com/46666833/197975096-3cf42325-bf6d-490b-8a9c-eebf7db9b084.png">
 - GTM 공백 영역 벡터 도출
   <img width="626" alt="image" src="https://user-images.githubusercontent.com/46666833/197975203-3b02bdde-958f-4277-a765-719d1665ffe6.png">
