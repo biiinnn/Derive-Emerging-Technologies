@@ -11,6 +11,7 @@
 
 ### process
 <img width="733" alt="image" src="https://user-images.githubusercontent.com/46666833/197974393-5e38b59a-8414-4578-a89e-9b424935062a.png">
+
 #### 1. 데이터 수집 및 전처리
 - 전처리 과정
   - 소문자화, 영어가 아닌 문자 삭제
